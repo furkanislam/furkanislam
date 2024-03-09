@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Map Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanislam" alt="furkanislam" /></a> </p>
-
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **islamfurkan53@gmail.com**
