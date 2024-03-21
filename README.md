@@ -1,7 +1,7 @@
 ![MasterHead](https://www.snpinfotech.com/assets/images/developments/iOS_banner.jpg)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 
-<img align="right" alt="Coder GIF" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" width=435 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 
