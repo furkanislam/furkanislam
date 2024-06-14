@@ -7,7 +7,7 @@
 
 - 🔭 My job is survey engineer
 
-- 👨‍💻 I'm trying to become an ios developer
+- 👨‍💻 I'm trying to become an iOS developer
 
 - 🌱 I’m currently learning **Swift**
 
