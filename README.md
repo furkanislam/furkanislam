@@ -5,7 +5,7 @@
 
 
 
-- 🔭 My job is survey engineer
+- 🔭 My job is Survey Engineer
 
 - 👨‍💻 I'm trying to become an iOS developer
 
