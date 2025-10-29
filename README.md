@@ -1,4 +1,4 @@
-# Hi there, I'm Furkan İslam! 👋
+# Hi there, I'm Furkan İSLAM! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=furkanislam&color=blueviolet&style=flat-square)
 
